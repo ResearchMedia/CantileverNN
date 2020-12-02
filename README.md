@@ -12,7 +12,7 @@ This repository provides the necessary files to reproduce the training results p
 
 ## Installation
 
-Supported platforms: Ubuntu 18.04, Python 3.7, PyTorch <= 1.14
+Tested platform: Ubuntu 18.04, Python 3.7, PyTorch <= 1.3.0
 
 - Install X and its dependencies, including Y.
 - Clone the repo:
