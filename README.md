@@ -59,11 +59,11 @@ Note: lr_isadaptive should be set to "false" and norm_mode should be set to "pas
 
 Please cite using the following BibTeX entry:
 ```
-@article{WordsTotypetoreference2020,
-  author = {Names of people},
-  title = {Paper title},
-  journal = {Journal Name},
-  year = {2020},
+@article{VisualDesignIntuition2021,
+  author = {Philippe M. Wyder, Hod Lipson},
+  title = {Visual design intuition: Predicting dynamic properties of beams from raw cross-section images},
+  journal = {Journal of the Royal Society Interface},
+  year = {2021},
   note = {<URL_TBD>},
   doi = {<DOI_TBD>}
 }
