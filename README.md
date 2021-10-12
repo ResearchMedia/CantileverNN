@@ -6,7 +6,10 @@
 
 This repository provides the necessary files to reproduce the training results published in our paper: "Visual design intuition: Predicting dynamic properties of beams from raw cross-section images".
 
-![Some Image Caption Text](https://avatars1.githubusercontent.com/u/11238785?s=60&v=4 "Some other aption")
+![3D Twisted Beam with Eigenvalues from FEA, analytical solution, and Neural Network Prediction](/figures/3DTwistedBeamExplained_V2.png "3D Twisted Beam")
+
+## Neural Network Configuration
+![Neural Network Architecture Graph](/figures/ConvNetExtended.png "Convolutional Neural Network Graph")
 
 ## Installation
 
@@ -47,7 +50,6 @@ Create a training configuration file my_config.json of the format described belo
 Note: lr_isadaptive should be set to "false" and norm_mode should be set to "pass_through", thereby ignoring the lr_decreasefactor, normalization_range, and logmask parameters. These parameters were included for future work.
 
 ## Visualizations
-![3D Twisted Beam with Eigenvalues from FEA, analytical solution, and Neural Network Prediction](/figures/3DTwistedBeamExplained_V2.png "3D Twisted Beam")
 Describe the visualization scripts
 
 ## Guide to interfaces
