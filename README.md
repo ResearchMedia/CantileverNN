@@ -2,26 +2,23 @@
 
 # CantileverNN
 
-#### [ [Paper] ](URL_TBD.com) [ [Demo] ](URL_TBD.com)
+#### [ [Paper] ](URL_TBD.com) [ [Video] ](URL_TBD.com)
 
-Training Convolutional Neural Networks to predict static and dynamic behaviors of cantilever beams from cross section images.
+This repository provides the necessary files to reproduce the training results published in our paper: "Visual design intuition: Predicting dynamic properties of beams from raw cross-section images".
 
-This repository provides the necessary files to reproduce the training results published in our paper: "Visual design intuition: Predicting dynamic properties of beams from raw cross section images".
-
-![](https://avatars1.githubusercontent.com/u/11238785?s=60&v=4)
+![Some Image Caption Text](https://avatars1.githubusercontent.com/u/11238785?s=60&v=4 "Some other aption")
 
 ## Installation
 
-Tested platform: Ubuntu 18.04, Python 3.7, PyTorch <= 1.3.0
+Tested platform: Ubuntu 18.04, Python 3.7, PyTorch <= 1.3.0, cudatoolkit 9.0, 
 
-- Install X and its dependencies, including Y.
-- Clone the repo:
+- Install the packages listed in PyTorchNN.yml or simply create a conda environment using the PyTorchNN.yml as a template.
+- Clone the repository:
     ```
     git clone <PATH TO REPO>
     ```
 ## Downloading corresponding datasets
-Download our corresponding datasets from Mendeley Data <REPO LINK>
-
+Download our corresponding datasets from Mendeley Data: <REPO LINK>
 
 
 ## Training configuration file template
@@ -50,10 +47,14 @@ Create a training configuration file my_config.json of the format described belo
 Note: lr_isadaptive should be set to "false" and norm_mode should be set to "pass_through", thereby ignoring the lr_decreasefactor, normalization_range, and logmask parameters. These parameters were included for future work.
 
 ## Visualizations
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+Describe the visualization scripts
 
 ## Guide to interfaces
+Coming Soon
 
 ## Training models
+Comming Soon
 
 ## Citation
 
