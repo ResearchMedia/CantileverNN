@@ -18,7 +18,7 @@ Tested platform: Ubuntu 18.04, Python 3.7, PyTorch <= 1.3.0, cudatoolkit 9.0,
 - Install the packages listed in PyTorchNN.yml or simply create a conda environment using the PyTorchNN.yml as a template.
 - Clone the repository:
     ```
-    git clone <PATH TO REPO>
+    git clone https://github.com/ResearchMedia/CantileverNN/
     ```
 ## Downloading corresponding datasets
 Download our corresponding datasets from Mendeley Data: <REPO LINK>
