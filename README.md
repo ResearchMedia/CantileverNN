@@ -50,13 +50,13 @@ Create a training configuration file my_config.json of the format described belo
 Note: lr_isadaptive should be set to "false" and norm_mode should be set to "pass_through", thereby ignoring the lr_decreasefactor, normalization_range, and logmask parameters. These parameters were included for future work.
 
 ## Visualizations
-Describe the visualization scripts
+Coming Soon
 
 ## Guide to interfaces
 Coming Soon
 
 ## Training models
-Comming Soon
+Coming Soon
 
 ## Citation
 
