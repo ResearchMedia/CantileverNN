@@ -21,7 +21,7 @@ Tested platform: Ubuntu 18.04, Python 3.7, PyTorch <= 1.3.0, cudatoolkit 9.0,
     git clone https://github.com/ResearchMedia/CantileverNN/
     ```
 ## Downloading corresponding datasets
-Download our corresponding datasets from Mendeley Data: <REPO LINK>
+Download our corresponding datasets from Mendeley Data: https://doi.org/10.17632/y3m8xm6kfk
 
 
 ## Training configuration file template
