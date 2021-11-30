@@ -2,7 +2,7 @@
 
 # CantileverNN
 
-#### [ [Paper] ](URL_TBD.com) [ [Video] ](URL_TBD.com)
+#### [ [Paper] ](https://doi.org/10.1098/rsif.2021.0571) [ [Video] ](TBD)
 
 This repository provides the necessary files to reproduce the training results published in our paper: "Visual design intuition: Predicting dynamic properties of beams from raw cross-section images".
 
@@ -59,15 +59,16 @@ Coming Soon
 Coming Soon
 
 ## Citation
+Wyder Philippe M. and Lipson Hod. 2021 Visual design intuition: predicting dynamic properties of beams from raw cross-section images. J. R. Soc. Interface.182021057120210571
+[https://doi.org/10.1098/rsif.2021.0571](https://doi.org/10.1098/rsif.2021.0571)
 
 Please cite using the following BibTeX entry:
 ```
 @article{VisualDesignIntuition2021,
   author = {Philippe M. Wyder, Hod Lipson},
-  title = {Visual design intuition: Predicting dynamic properties of beams from raw cross-section images},
-  journal = {Journal of the Royal Society Interface},
+  title = {Visual design intuition: predicting dynamic properties of beams from raw cross-section images},
+  journal = {J. R. Soc. Interface},
   year = {2021},
-  note = {<URL_TBD>},
-  doi = {<DOI_TBD>}
+  doi = {10.1098/rsif.2021.0571}
 }
 ```
