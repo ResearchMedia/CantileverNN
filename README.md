@@ -69,6 +69,6 @@ Please cite using the following BibTeX entry:
   title = {Visual design intuition: predicting dynamic properties of beams from raw cross-section images},
   journal = {J. R. Soc. Interface},
   year = {2021},
-  doi = {10.1098/rsif.2021.0571}
+  doi = {[10.1098/rsif.2021.0571](https://doi.org/10.1098/rsif.2021.0571)}
 }
 ```
